@@ -1,0 +1,10 @@
+{
+    "idServerURL" : "https://grundfosautht.b2clogin.com/tfp/GrundfosAuthT.onmicrosoft.com/B2C_1A_signinGF/v2.0/.well-known/openid-configuration",
+    "logApiPath" : "https://wwnc-api-t-azwe.grundfos.com/logger/",
+    "graphQLpath" : "https://wwnc-api-t-azwe.grundfos.com/graphql/",
+    "bingMapsSecretKey" : "AlYa_tFwamY78ffSuZHfNn7ZaVZpupLVrfT4ICEH1BPq7uiIiimnul40QiFY4uZx",
+    "applicationInsightsInstrumentationKey": "0d558e25-6cc1-4c5d-873b-cc302f948c0f",
+    "idServerClient": "a2fafbd5-a817-43d3-bd75-06e73b9bb315",
+    "oidcScope": "openid email profile https://GrundfosAuthT.onmicrosoft.com/GiC-T-API/grm2WebApi",
+    "applicationRoot": "/"
+}

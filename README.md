@@ -5,14 +5,6 @@ This is just for publishing the static site created by Storybook
 
 [Read more here](https://storybook.js.org/docs/basics/exporting-storybook/) 
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
 ## Usage
 Only changes in master should be built and pushed to master.
 

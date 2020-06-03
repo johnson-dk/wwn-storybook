@@ -24,8 +24,10 @@ After a minute you should see you changes visible at https://my-awesome-change--
 ## Contributing
 After updating Storybook and getting your changes into master
 
+> Make sure you have built the dist folder `npx build`
+>
 ```bash
-# Run this command from the main project
+# Run this command from the main wwn project
 npm run build-storybook
 # change into the wwn-storybook directory
 git add .
